@@ -1,5 +1,5 @@
 //ZADANIE 1
-let b1=document.querySelector("body")
+const b1=document.querySelector("body")
 
 let nowyDiv=document.createElement("div")
 nowyDiv.style.backgroundColor="red"
